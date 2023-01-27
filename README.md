@@ -1,5 +1,3 @@
-[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Google Clone
 
 First, run the development server:
